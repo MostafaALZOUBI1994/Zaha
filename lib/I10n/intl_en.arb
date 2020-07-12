@@ -1,0 +1,270 @@
+{
+  "@@last_modified": "2019-06-27T22:25:57.081431",
+  "heyWorld": "Hey World",
+  "@heyWorld": {
+    "description": "Simple world for greeting ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "login",
+  "@login": {
+        "description": "login",
+        "type": "text",
+        "placeholders": {}
+  },
+  "signIn": "Sign in",
+  "@signIn": {
+        "description":"sign in",
+        "type": "text",
+        "placeholder": {}
+  },
+  "socialLogin": "Social Login",
+  "@socialLogin": {
+          "description":"Social Login",
+          "type": "text",
+          "placeholder": {}
+  },
+  "newUser": "New User?",
+  "@newUser": {
+            "description":"New User?",
+            "type": "text",
+            "placeholder": {}
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+              "description":"Sign Up",
+              "type": "text",
+              "placeholder": {}
+  },
+  "userName": "User Name",
+  "@userName": {
+                "description":"User Name",
+                "type": "text",
+                "placeholder": {}
+  },
+  "password": "Password",
+  "@password": {
+                  "description":"Password",
+                  "type": "text",
+                  "placeholder": {}
+  },
+  "forgotPassword": "Forgot Password",
+  "@forgotPassword": {
+                    "description":"Forgot Password",
+                    "type": "text",
+                    "placeholder": {}
+  },
+  "featuredProduct": "Featured Product",
+  "@featuredProduct": {
+                      "description":"Featured Product",
+                      "type": "text",
+                      "placeholder": {}
+  },
+  "featuredCompany": "Featured Company",
+  "@featuredCompany": {
+                        "description":"Featured Company",
+                        "type": "text",
+                        "placeholder": {}
+  },
+  "categories": "Categories",
+  "@categories": {
+        "description":"Categories",
+        "type": "text",
+        "placeholder": {}
+  },
+  "seeAll": "see All",
+  "@seeAll": {
+          "description":"See All",
+          "type": "text",
+          "placeholder": {}
+  },
+  "favorite": "Favorite",
+  "@favorite": {
+              "description":"Favorite",
+              "type": "text",
+              "placeholder": {}
+  },
+  "favoriteCompanies": "favorite Companies",
+  "@favoriteCompanies": {
+            "description":"Favorite Companies",
+            "type": "text",
+            "placeholder": {}
+  },
+  "favoriteCompaniesDescription": "Here is your favorite companies list",
+  "@favoriteCompaniesDescription": {
+              "description":"Here is your favorite companies list",
+              "type": "text",
+              "placeholder": {}
+  },
+  "favoriteAdvertisement": "favorite Advertisement",
+  "@favoriteAdvertisement": {
+              "description":"Favorite Advertisement",
+              "type": "text",
+              "placeholder": {}
+  },
+  "favoriteAdvertisementDescription": "Here is your favorite advertisement list",
+  "@favoriteAdvertisementDescription": {
+                "description":"Here is your favorite advertisement list",
+                "type": "text",
+                "placeholder": {}
+  },
+  "similarCompanies": "Similar Companies",
+  "@similarCompanies": {
+                "description":"Similar Companies",
+                "type": "text",
+                "placeholder": {}
+  },
+  "location": "Location",
+  "@location": {
+                  "description":"Location",
+                  "type": "text",
+                  "placeholder": {}
+  },
+  "distance": "1.4 KM",
+  "@distance": {
+                    "description":"1.4 KM",
+                    "type": "text",
+                    "placeholder": {}
+  },
+  "time": "15 min",
+  "@time": {
+                      "description":"15 min",
+                      "type": "text",
+                      "placeholder": {}
+  },
+  "locationDescription": "Great place for a picnic",
+  "@locationDescription": {
+                        "description":"Great place for a picnic",
+                        "type": "text",
+                        "placeholder": {}
+  },
+  "name": "Name",
+  "@name": {
+                          "description":"Name",
+                          "type": "text",
+                          "placeholder": {}
+  },
+  "email": "Email",
+  "@email": {
+                            "description":"Email",
+                            "type": "text",
+                            "placeholder": {}
+  },
+  "mobile": "Mobile",
+  "@mobile": {
+                              "description":"Mobile",
+                              "type": "text",
+                              "placeholder": {}
+  },
+  "address": "Address",
+  "@address": {
+                                "description":"Address",
+                                "type": "text",
+                                "placeholder": {}
+  },
+  "register": "Register",
+  "@register": {
+                                  "description":"Register",
+                                  "type": "text",
+                                  "placeholder": {}
+  },
+  "facebookAccount": "Facebook Account",
+  "@facebookAccount": {
+                                    "description":"Facebook Account",
+                                    "type": "text",
+                                    "placeholder": {}
+  },
+  "twitterAccount": "Twitter Account",
+  "@twitterAccount": {
+                                      "description":"Twitter Account",
+                                      "type": "text",
+                                      "placeholder": {}
+  },
+  "linkedInAccount": "LinkedIn Account",
+  "@linkedInAccount": {
+                                        "description":"LinkedIn Account",
+                                        "type": "text",
+                                        "placeholder": {}
+  },
+  "data": "Data",
+  "@data": {
+                                          "description":"Data",
+                                          "type": "text",
+                                          "placeholder": {}
+  },
+  "search": "Search",
+  "@search": {
+                                            "description":"Search",
+                                            "type": "text",
+                                            "placeholder": {}
+  },
+  "companies": "Companies",
+  "@companies": {
+                                              "description":"Companies",
+                                              "type": "text",
+                                              "placeholder": {}
+  },
+  "category": "Category",
+  "@category": {
+                                              "description":"Category",
+                                              "type": "text",
+                                              "placeholder": {}
+  },
+  "products": "Products",
+  "@products": {
+                                              "description":"Products",
+                                              "type": "text",
+                                              "placeholder": {}
+  },
+  "haveAnAccount": "Have an account?",
+  "@haveAnAccount": {
+                                                "description":"Have an account?",
+                                                "type": "text",
+                                                "placeholder": {}
+  },
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+                                                  "description":"Reset Password",
+                                                  "type": "text",
+                                                  "placeholder": {}
+  },
+  "rememberPassword": "Remember Password?",
+  "@rememberPassword": {
+                                                    "description":"Remember Password?",
+                                                    "type": "text",
+                                                    "placeholder": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+                                                      "description":"Submit",
+                                                      "type": "text",
+                                                      "placeholder": {}
+  },
+  "description": "Description",
+  "@description": {
+                                                        "description":"Description",
+                                                        "type": "text",
+                                                        "placeholder": {}
+  },
+  "contactInformation": "Contact Information",
+  "@contactInformation": {
+                                                          "description":"Contact Information",
+                                                          "type": "text",
+                                                          "placeholder": {}
+  },
+  "subCategories": "Sub Categories",
+    "@subCategories": {
+                                                            "description":"Sub Categories",
+                                                            "type": "text",
+                                                            "placeholder": {}
+    },
+    "firstName": "First Name",
+        "@firstName": {
+                                                                "description":"First Name",
+                                                                "type": "text",
+                                                                "placeholder": {}
+        }
+
+
+
+}

@@ -1,0 +1,267 @@
+{
+  "@@last_modified": "2019-06-27T22:25:57.081431",
+  "heyWorld": "مرحبا",
+  "@heyWorld": {
+    "description": "تحية",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "تسجيل الدخول",
+  "@login": {
+        "description": "تسجيل الدخول",
+        "type": "text",
+        "placeholders": {}
+  },
+  "signIn": "تسجيل الدخول",
+  "@signIn": {
+        "description":"تسجيل الدخول",
+        "type": "text",
+        "placeholder": {}
+  },
+  "socialLogin": "التسجيل عبر",
+  "@socialLogin": {
+        "description":"التسجيل عبر",
+        "type": "text",
+        "placeholder": {}
+  },
+  "newUser": "مستخدم جديد؟",
+  "@newUser": {
+              "description":"مستخدم جديد؟",
+              "type": "text",
+              "placeholder": {}
+  },
+  "signUp": "إنشاء حساب",
+  "@signUp": {
+                "description":"إنشاء حساب",
+                "type": "text",
+                "placeholder": {}
+  },
+  "userName": "اسم المستخدم",
+  "@userName": {
+                  "description":"اسم المستخدم",
+                  "type": "text",
+                  "placeholder": {}
+  },
+  "password": "كلمة المرور",
+  "@password": {
+                    "description":"كلمة المرور",
+                    "type": "text",
+                    "placeholder": {}
+  },
+  "forgotPassword": "نسيت كلمة المرور",
+  "@forgotPassword": {
+                      "description":"نسيت كلمة المرور",
+                      "type": "text",
+                      "placeholder": {}
+  },
+  "featuredProduct": "المنتجات المميزة",
+  "@featuredProduct": {
+                        "description":"المنتجات المميزة",
+                        "type": "text",
+                        "placeholder": {}
+  },
+  "featuredCompany": "الشركات المميزة",
+  "@featuredCompany": {
+                          "description":"الشركات المميزة",
+                          "type": "text",
+                          "placeholder": {}
+  },
+  "categories": "الأصناف",
+  "@categories": {
+          "description":"الأصناف",
+          "type": "text",
+          "placeholder": {}
+  },
+  "seeAll": "المزيد",
+  "@seeAll": {
+            "description":"المزيد",
+            "type": "text",
+            "placeholder": {}
+  },
+  "favorite": "المفضلة",
+  "@favorite": {
+                "description":"المفضلة",
+                "type": "text",
+                "placeholder": {}
+  },
+  "favoriteCompanies": "الشركات المفضلة",
+  "@favoriteCompanies": {
+              "description":"الشركات المفضلة",
+              "type": "text",
+              "placeholder": {}
+  },
+  "favoriteCompaniesDescription": "قائمة الشركات المفضلة لديك",
+  "@favoriteCompaniesDescription": {
+                "description":"قائمة الشركات المفضلة لديك",
+                "type": "text",
+                "placeholder": {}
+  },
+  "favoriteAdvertisement": "الإعلانات المفضلة",
+  "@favoriteAdvertisement": {
+                "description":"الإعلانات المفضلة",
+                "type": "text",
+                "placeholder": {}
+  },
+  "favoriteAdvertisementDescription": "قائمة الإعلانات المفضلة لديك",
+  "@favoriteAdvertisementDescription": {
+                  "description":"قائمة الإعلانات المفضلة لديك",
+                  "type": "text",
+                  "placeholder": {}
+  },
+  "similarCompanies": "شركات مشابهة",
+  "@similarCompanies": {
+                  "description":"شركات مشابهة",
+                  "type": "text",
+                  "placeholder": {}
+  },
+  "location": "تحديد الموقع",
+  "@location": {
+                    "description":"تحديد الموقع",
+                    "type": "text",
+                    "placeholder": {}
+  },
+  "distance": "كيلومتر 1.4",
+  "@distance": {
+                      "description":"كيلومتر 1.4",
+                      "type": "text",
+                      "placeholder": {}
+  },
+  "time": "15 دقيقة",
+  "@time": {
+                        "description":"15 دقيقة",
+                        "type": "text",
+                        "placeholder": {}
+  },
+  "locationDescription": "مكان جميل لقضاء العطلة",
+  "@locationDescription": {
+                          "description":"مكان جميل لقضاء العطلة",
+                          "type": "text",
+                          "placeholder": {}
+  },
+  "name": "اسم المستخدم",
+  "@name": {
+                            "description":"اسم المستخدم",
+                            "type": "text",
+                            "placeholder": {}
+  },
+  "email": "البريد الالكتروني",
+  "@email": {
+                              "description":"البريد الالكتروني",
+                              "type": "text",
+                              "placeholder": {}
+  },
+  "mobile": "رقم الموبايل",
+  "@mobile": {
+                                "description":"رقم الموبايل",
+                                "type": "text",
+                                "placeholder": {}
+  },
+  "address": "العنوان",
+  "@address": {
+                                  "description":"العنوان",
+                                  "type": "text",
+                                  "placeholder": {}
+  },
+  "register": "السجل",
+  "@register": {
+                                    "description":"السجل",
+                                    "type": "text",
+                                    "placeholder": {}
+  },
+  "facebookAccount": "حساب الفيس بوك",
+  "@facebookAccount": {
+                                      "description":"حساب الفيس بوك",
+                                      "type": "text",
+                                      "placeholder": {}
+  },
+  "twitterAccount": "حساب التويتر",
+  "@twitterAccount": {
+                                        "description":"حساب التويتر",
+                                        "type": "text",
+                                        "placeholder": {}
+    },
+  "linkedInAccount": "LinkedIn حساب",
+  "@linkedInAccount": {
+                                          "description":"LinkedIn حساب",
+                                          "type": "text",
+                                          "placeholder": {}
+  },
+  "data": "بيانات",
+  "@data": {
+                                            "description":"بيانات",
+                                            "type": "text",
+                                            "placeholder": {}
+  },
+  "search": "بحث",
+  "@search": {
+                                              "description":"بحث",
+                                              "type": "text",
+                                              "placeholder": {}
+  },
+  "companies": "الشركات",
+  "@companies": {
+                                                "description":"الشركات",
+                                                "type": "text",
+                                                "placeholder": {}
+  },
+  "category": "الصنف",
+  "@category": {
+                                                "description":"الصنف",
+                                                "type": "text",
+                                                "placeholder": {}
+  },
+  "products": "المنتجات",
+  "@products": {
+                                                "description":"المنتجات",
+                                                "type": "text",
+                                                "placeholder": {}
+  },
+  "haveAnAccount": "لديك حساب؟",
+  "@haveAnAccount": {
+                                                  "description":"لديك حساب",
+                                                  "type": "text",
+                                                  "placeholder": {}
+  },
+  "resetPassword": "إعادة ضبط كلمة المرور",
+  "@resetPassword": {
+                                                    "description":"إعادة ضبط كلمة المرور",
+                                                    "type": "text",
+                                                    "placeholder": {}
+  },
+  "rememberPassword": "تذكرت كلمة المرور؟",
+  "@rememberPassword": {
+                                                      "description":"تذكرت كلمة المرور",
+                                                      "type": "text",
+                                                      "placeholder": {}
+  },
+  "submit": "تأكيد",
+  "@submit": {
+                                                        "description":"تأكيد",
+                                                        "type": "text",
+                                                        "placeholder": {}
+  },
+  "description": "التوصيف",
+  "@description": {
+                                                          "description":"التوصيف",
+                                                          "type": "text",
+                                                          "placeholder": {}
+  },
+  "contactInformation": "معلومات الاتصال",
+  "@contactInformation": {
+                                                            "description":"معلومات الاتصال",
+                                                            "type": "text",
+                                                            "placeholder": {}
+  },
+  "subCategories": "الأصناف الثانوية",
+      "@subCategories": {
+                                                              "description":"الأصناف الثانوية",
+                                                              "type": "text",
+                                                              "placeholder": {}
+      },
+  "firstName": "الاسم",
+              "@firstName": {
+                                                                      "description":"الاسم",
+                                                                      "type": "text",
+                                                                      "placeholder": {}
+              }
+}

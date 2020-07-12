@@ -1,0 +1,59 @@
+[  
+   {  
+      "id":1001,
+      "title":"Product1",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+      "text":"info",
+      "image":"product3.jfif",
+      "information1":[
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+      ],
+      "information2":[
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+      ],
+      "information3":[
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+      ]
+   },
+   {  
+      "id":1002,
+      "title":"Product2",
+      "description":"A simple lemon glaze goes a long way.",
+      "text":"info",
+      "image":"product.jpg",
+      "information1":[
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+      ],
+      "information2":[
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+      ],
+      "information3":[
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+      ]
+   },
+   {  
+      "id":1004,
+      "title":"Product4",
+      "description":"You deserve something fancy on a weeknight.",
+      "text":"info",
+      "image":"product2.jpg",
+      "information1":[
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+      ],
+      "information2":[
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+      ],
+      "information3":[
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+         "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+      ]
+   }
+]

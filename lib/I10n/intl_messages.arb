@@ -1,0 +1,261 @@
+{
+  "@@last_modified": "2019-09-07T22:39:50.864918",
+  "heyWorld": "Hey World",
+  "@heyWorld": {
+    "description": "Simple word for greeting ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "login",
+  "@login": {
+    "description": "user login ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signIn": "sign in",
+  "@signIn": {
+    "description": "sign in",
+    "type": "text",
+    "placeholders": {}
+  },
+  "socialLogin": "Social Login",
+  "@socialLogin": {
+    "description": "Social Login",
+    "type": "text",
+    "placeholders": {}
+  },
+  "newUser": "New User?",
+  "@newUser": {
+    "description": "New User?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign Up",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "User Name",
+  "@userName": {
+    "description": "User Name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPassword": "Forgot Password",
+  "@forgotPassword": {
+    "description": "Forgot Password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "featuredProduct": "Featured Product",
+  "@featuredProduct": {
+    "description": "Featured Product",
+    "type": "text",
+    "placeholders": {}
+  },
+  "featuredCompany": "Featured Company",
+  "@featuredCompany": {
+    "description": "Featured Company",
+    "type": "text",
+    "placeholders": {}
+  },
+  "categories": "Categories",
+  "@categories": {
+    "description": "Categories",
+    "type": "text",
+    "placeholders": {}
+  },
+  "seeAll": "See All",
+  "@seeAll": {
+    "description": "See All",
+    "type": "text",
+    "placeholders": {}
+  },
+  "favoriteCompanies": "Favorite Companies",
+  "@favoriteCompanies": {
+    "description": "Favorite Companies",
+    "type": "text",
+    "placeholders": {}
+  },
+  "favoriteCompaniesDescription": "Favorite Companies Description",
+  "@favoriteCompaniesDescription": {
+    "description": "Here is your favorite companies list",
+    "type": "text",
+    "placeholders": {}
+  },
+  "favoriteAdvertisement": "Favorite Advertisement",
+  "@favoriteAdvertisement": {
+    "description": "Favorite Advertisement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "favoriteAdvertisementDescription": "Favorite Advertisement Description",
+  "@favoriteAdvertisementDescription": {
+    "description": "Here is your favorite advertisement list",
+    "type": "text",
+    "placeholders": {}
+  },
+  "favorite": "Favorite",
+  "@favorite": {
+    "description": "Favorite",
+    "type": "text",
+    "placeholders": {}
+  },
+  "similarCompanies": "Similar Companies",
+  "@similarCompanies": {
+    "description": "Similar Companies",
+    "type": "text",
+    "placeholders": {}
+  },
+  "location": "Location",
+  "@location": {
+    "description": "Location",
+    "type": "text",
+    "placeholders": {}
+  },
+  "distance": "1.4 KM",
+  "@distance": {
+    "description": "1.4 KM",
+    "type": "text",
+    "placeholders": {}
+  },
+  "time": "15 min",
+  "@time": {
+    "description": "15 min",
+    "type": "text",
+    "placeholders": {}
+  },
+  "locationDescription": "Great place for a picnic",
+  "@locationDescription": {
+    "description": "Great place for a picnic",
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Name",
+  "@name": {
+    "description": "Name",
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mobile": "Mobile",
+  "@mobile": {
+    "description": "Mobile",
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Address",
+  "@address": {
+    "description": "Address",
+    "type": "text",
+    "placeholders": {}
+  },
+  "register": "Register",
+  "@register": {
+    "description": "Register",
+    "type": "text",
+    "placeholders": {}
+  },
+  "facebookAccount": "Facebook Account",
+  "@facebookAccount": {
+    "description": "Facebook Account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "twitterAccount": "Twitter Account",
+  "@twitterAccount": {
+    "description": "Twitter Account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "linkedInAccount": "LinkedIn Account",
+  "@linkedInAccount": {
+    "description": "LinkedIn Account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "data": "Data",
+  "@data": {
+    "description": "Data",
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search",
+    "type": "text",
+    "placeholders": {}
+  },
+  "companies": "Companies",
+  "@companies": {
+    "description": "Companies",
+    "type": "text",
+    "placeholders": {}
+  },
+  "category": "Category",
+  "@category": {
+    "description": "Category",
+    "type": "text",
+    "placeholders": {}
+  },
+  "products": "Products",
+  "@products": {
+    "description": "Products",
+    "type": "text",
+    "placeholders": {}
+  },
+  "haveAnAccount": "Have an account?",
+  "@haveAnAccount": {
+    "description": "Have an account?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+    "description": "Reset Password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "rememberPassword": "Remember Password?",
+  "@rememberPassword": {
+    "description": "Remember Password?",
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "Submit",
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactInformation": "Contact Information",
+  "@contactInformation": {
+    "description": "Contact Information",
+    "type": "text",
+    "placeholders": {}
+  },
+  "subCategories": "Sub Categories",
+  "@subCategories": {
+    "description": "Sub Categories",
+    "type": "text",
+    "placeholders": {}
+  }
+}
